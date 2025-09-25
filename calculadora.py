@@ -69,3 +69,4 @@ if __name__ == "__main__":
         print(f"\nO resultado de {val1} {op} {val2} é: {resultado_final}")
     else:
         print("\nOperação falhou. Por favor, verifique se os valores são numéricos e a operação é válida.")
+        

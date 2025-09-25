@@ -1,1 +1,1 @@
-![Test status](https://github.com/aula4-calculadora/actions/workflows/python-app.yml/badge.svg)
+![Test status](https://github.com/LabEngSoftware2025/aula4-calculadora/actions/workflows/python-app.yml/badge.svg)
